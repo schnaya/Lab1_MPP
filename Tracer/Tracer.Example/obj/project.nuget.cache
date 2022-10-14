@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "XG0YpGL2AqypQ7DyA+wYSURK2dWgYlQLAIwl6XMXbuKO0ZC5XIAMVmaMibFdb2xXh373L1xtK/JyUYnVTpZ1GQ==",
+  "success": true,
+  "projectFilePath": "E:\\MPP_Lab1-dev\\Tracer\\Tracer.Example\\Tracer.Example.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Анастасия\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Анастасия\\.nuget\\packages\\yamldotnet\\12.0.0\\yamldotnet.12.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

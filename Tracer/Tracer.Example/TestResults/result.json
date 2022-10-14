@@ -1,0 +1,92 @@
+{
+  "ThreadTraces": [
+    {
+      "ThreadId": 1,
+      "ThreadTrace": {
+        "ElapsedTime": 17.1444,
+        "Methods": [
+          {
+            "MethodMetadata": {
+              "ClassName": "<>c__DisplayClass0_0",
+              "MethodName": "<<Main>$>g__Foo|0"
+            },
+            "NestedMethods": [
+              {
+                "MethodMetadata": {
+                  "ClassName": "TestClassOne",
+                  "MethodName": "TestMethodOne"
+                },
+                "NestedMethods": [
+                  {
+                    "MethodMetadata": {
+                      "ClassName": "TestClassOne",
+                      "MethodName": "TestMethodOneOne"
+                    },
+                    "NestedMethods": [
+                    ],
+                    "Elapsed": "00:00:00.0008339"
+                  }
+                ],
+                "Elapsed": "00:00:00.0159928"
+              },
+              {
+                "MethodMetadata": {
+                  "ClassName": "TestClassOne",
+                  "MethodName": "TestMethodTwo"
+                },
+                "NestedMethods": [
+                ],
+                "Elapsed": "00:00:00.0001088"
+              }
+            ],
+            "Elapsed": "00:00:00.0171444"
+          }
+        ]
+      }
+    },
+    {
+      "ThreadId": 9,
+      "ThreadTrace": {
+        "ElapsedTime": 0.9918,
+        "Methods": [
+          {
+            "MethodMetadata": {
+              "ClassName": "<>c__DisplayClass0_0",
+              "MethodName": "<<Main>$>b__2"
+            },
+            "NestedMethods": [
+              {
+                "MethodMetadata": {
+                  "ClassName": "TestClassTwo",
+                  "MethodName": "TestMethodOne"
+                },
+                "NestedMethods": [
+                  {
+                    "MethodMetadata": {
+                      "ClassName": "TestClassTwo",
+                      "MethodName": "TestMethodOneOne"
+                    },
+                    "NestedMethods": [
+                    ],
+                    "Elapsed": "00:00:00.0000902"
+                  }
+                ],
+                "Elapsed": "00:00:00.0004618"
+              },
+              {
+                "MethodMetadata": {
+                  "ClassName": "TestClassTwo",
+                  "MethodName": "TestMethodTwo"
+                },
+                "NestedMethods": [
+                ],
+                "Elapsed": "00:00:00.0000676"
+              }
+            ],
+            "Elapsed": "00:00:00.0009918"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfThreadDto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<ThreadDto>
+		<ThreadId>1</ThreadId>
+		<ThreadTrace>
+			<Methods>
+				<MethodTraceDto>
+					<MethodMetadata>
+						<ClassName>&lt;&gt;c__DisplayClass0_0</ClassName>
+						<MethodName>&lt;&lt;Main&gt;$&gt;g__Foo|0</MethodName>
+					</MethodMetadata>
+					<NestedMethods>
+						<MethodTraceDto>
+							<MethodMetadata>
+								<ClassName>TestClassOne</ClassName>
+								<MethodName>TestMethodOne</MethodName>
+							</MethodMetadata>
+							<NestedMethods>
+								<MethodTraceDto>
+									<MethodMetadata>
+										<ClassName>TestClassOne</ClassName>
+										<MethodName>TestMethodOneOne</MethodName>
+									</MethodMetadata>
+									<NestedMethods />
+									<Elapsed>PT0.0008339S</Elapsed>
+								</MethodTraceDto>
+							</NestedMethods>
+							<Elapsed>PT0.0159928S</Elapsed>
+						</MethodTraceDto>
+						<MethodTraceDto>
+							<MethodMetadata>
+								<ClassName>TestClassOne</ClassName>
+								<MethodName>TestMethodTwo</MethodName>
+							</MethodMetadata>
+							<NestedMethods />
+							<Elapsed>PT0.0001088S</Elapsed>
+						</MethodTraceDto>
+					</NestedMethods>
+					<Elapsed>PT0.0171444S</Elapsed>
+				</MethodTraceDto>
+			</Methods>
+		</ThreadTrace>
+	</ThreadDto>
+	<ThreadDto>
+		<ThreadId>9</ThreadId>
+		<ThreadTrace>
+			<Methods>
+				<MethodTraceDto>
+					<MethodMetadata>
+						<ClassName>&lt;&gt;c__DisplayClass0_0</ClassName>
+						<MethodName>&lt;&lt;Main&gt;$&gt;b__2</MethodName>
+					</MethodMetadata>
+					<NestedMethods>
+						<MethodTraceDto>
+							<MethodMetadata>
+								<ClassName>TestClassTwo</ClassName>
+								<MethodName>TestMethodOne</MethodName>
+							</MethodMetadata>
+							<NestedMethods>
+								<MethodTraceDto>
+									<MethodMetadata>
+										<ClassName>TestClassTwo</ClassName>
+										<MethodName>TestMethodOneOne</MethodName>
+									</MethodMetadata>
+									<NestedMethods />
+									<Elapsed>PT0.0000902S</Elapsed>
+								</MethodTraceDto>
+							</NestedMethods>
+							<Elapsed>PT0.0004618S</Elapsed>
+						</MethodTraceDto>
+						<MethodTraceDto>
+							<MethodMetadata>
+								<ClassName>TestClassTwo</ClassName>
+								<MethodName>TestMethodTwo</MethodName>
+							</MethodMetadata>
+							<NestedMethods />
+							<Elapsed>PT0.0000676S</Elapsed>
+						</MethodTraceDto>
+					</NestedMethods>
+					<Elapsed>PT0.0009918S</Elapsed>
+				</MethodTraceDto>
+			</Methods>
+		</ThreadTrace>
+	</ThreadDto>
+</ArrayOfThreadDto>
