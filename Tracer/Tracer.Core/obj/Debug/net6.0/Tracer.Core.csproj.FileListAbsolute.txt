@@ -1,0 +1,12 @@
+E:\MPP_Lab1-dev\Tracer\Tracer.Core\bin\Debug\net6.0\Tracer.Core.deps.json
+E:\MPP_Lab1-dev\Tracer\Tracer.Core\bin\Debug\net6.0\Tracer.Core.dll
+E:\MPP_Lab1-dev\Tracer\Tracer.Core\bin\Debug\net6.0\Tracer.Core.pdb
+E:\MPP_Lab1-dev\Tracer\Tracer.Core\obj\Debug\net6.0\Tracer.Core.csproj.AssemblyReference.cache
+E:\MPP_Lab1-dev\Tracer\Tracer.Core\obj\Debug\net6.0\Tracer.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\MPP_Lab1-dev\Tracer\Tracer.Core\obj\Debug\net6.0\Tracer.Core.AssemblyInfoInputs.cache
+E:\MPP_Lab1-dev\Tracer\Tracer.Core\obj\Debug\net6.0\Tracer.Core.AssemblyInfo.cs
+E:\MPP_Lab1-dev\Tracer\Tracer.Core\obj\Debug\net6.0\Tracer.Core.csproj.CoreCompileInputs.cache
+E:\MPP_Lab1-dev\Tracer\Tracer.Core\obj\Debug\net6.0\Tracer.Core.dll
+E:\MPP_Lab1-dev\Tracer\Tracer.Core\obj\Debug\net6.0\refint\Tracer.Core.dll
+E:\MPP_Lab1-dev\Tracer\Tracer.Core\obj\Debug\net6.0\Tracer.Core.pdb
+E:\MPP_Lab1-dev\Tracer\Tracer.Core\obj\Debug\net6.0\ref\Tracer.Core.dll
