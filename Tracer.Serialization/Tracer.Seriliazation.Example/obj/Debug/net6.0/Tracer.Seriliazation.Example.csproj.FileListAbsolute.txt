@@ -1,0 +1,15 @@
+E:\MPP_Lab1-dev\Tracer.Serialization\Tracer.Seriliazation.Example\bin\Debug\net6.0\Tracer.Seriliazation.Example.exe
+E:\MPP_Lab1-dev\Tracer.Serialization\Tracer.Seriliazation.Example\bin\Debug\net6.0\Tracer.Seriliazation.Example.deps.json
+E:\MPP_Lab1-dev\Tracer.Serialization\Tracer.Seriliazation.Example\bin\Debug\net6.0\Tracer.Seriliazation.Example.runtimeconfig.json
+E:\MPP_Lab1-dev\Tracer.Serialization\Tracer.Seriliazation.Example\bin\Debug\net6.0\Tracer.Seriliazation.Example.dll
+E:\MPP_Lab1-dev\Tracer.Serialization\Tracer.Seriliazation.Example\bin\Debug\net6.0\Tracer.Seriliazation.Example.pdb
+E:\MPP_Lab1-dev\Tracer.Serialization\Tracer.Seriliazation.Example\obj\Debug\net6.0\Tracer.Seriliazation.Example.csproj.AssemblyReference.cache
+E:\MPP_Lab1-dev\Tracer.Serialization\Tracer.Seriliazation.Example\obj\Debug\net6.0\Tracer.Seriliazation.Example.GeneratedMSBuildEditorConfig.editorconfig
+E:\MPP_Lab1-dev\Tracer.Serialization\Tracer.Seriliazation.Example\obj\Debug\net6.0\Tracer.Seriliazation.Example.AssemblyInfoInputs.cache
+E:\MPP_Lab1-dev\Tracer.Serialization\Tracer.Seriliazation.Example\obj\Debug\net6.0\Tracer.Seriliazation.Example.AssemblyInfo.cs
+E:\MPP_Lab1-dev\Tracer.Serialization\Tracer.Seriliazation.Example\obj\Debug\net6.0\Tracer.Seriliazation.Example.csproj.CoreCompileInputs.cache
+E:\MPP_Lab1-dev\Tracer.Serialization\Tracer.Seriliazation.Example\obj\Debug\net6.0\Tracer.Seriliazation.Example.dll
+E:\MPP_Lab1-dev\Tracer.Serialization\Tracer.Seriliazation.Example\obj\Debug\net6.0\refint\Tracer.Seriliazation.Example.dll
+E:\MPP_Lab1-dev\Tracer.Serialization\Tracer.Seriliazation.Example\obj\Debug\net6.0\Tracer.Seriliazation.Example.pdb
+E:\MPP_Lab1-dev\Tracer.Serialization\Tracer.Seriliazation.Example\obj\Debug\net6.0\Tracer.Seriliazation.Example.genruntimeconfig.cache
+E:\MPP_Lab1-dev\Tracer.Serialization\Tracer.Seriliazation.Example\obj\Debug\net6.0\ref\Tracer.Seriliazation.Example.dll
