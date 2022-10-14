@@ -1,0 +1,17 @@
+E:\MPP_Lab1-dev\Tracer.Serialization\Tracer.Serialization.Yaml\bin\Debug\net6.0\Tracer.Serialization.Yaml.deps.json
+E:\MPP_Lab1-dev\Tracer.Serialization\Tracer.Serialization.Yaml\bin\Debug\net6.0\Tracer.Serialization.Yaml.dll
+E:\MPP_Lab1-dev\Tracer.Serialization\Tracer.Serialization.Yaml\bin\Debug\net6.0\Tracer.Serialization.Yaml.pdb
+E:\MPP_Lab1-dev\Tracer.Serialization\Tracer.Serialization.Yaml\bin\Debug\net6.0\Tracer.Core.dll
+E:\MPP_Lab1-dev\Tracer.Serialization\Tracer.Serialization.Yaml\bin\Debug\net6.0\Tracer.Serialization.Abstractions.dll
+E:\MPP_Lab1-dev\Tracer.Serialization\Tracer.Serialization.Yaml\bin\Debug\net6.0\Tracer.Serialization.Abstractions.pdb
+E:\MPP_Lab1-dev\Tracer.Serialization\Tracer.Serialization.Yaml\bin\Debug\net6.0\Tracer.Core.pdb
+E:\MPP_Lab1-dev\Tracer.Serialization\Tracer.Serialization.Yaml\obj\Debug\net6.0\Tracer.Serialization.Yaml.csproj.AssemblyReference.cache
+E:\MPP_Lab1-dev\Tracer.Serialization\Tracer.Serialization.Yaml\obj\Debug\net6.0\Tracer.Serialization.Yaml.GeneratedMSBuildEditorConfig.editorconfig
+E:\MPP_Lab1-dev\Tracer.Serialization\Tracer.Serialization.Yaml\obj\Debug\net6.0\Tracer.Serialization.Yaml.AssemblyInfoInputs.cache
+E:\MPP_Lab1-dev\Tracer.Serialization\Tracer.Serialization.Yaml\obj\Debug\net6.0\Tracer.Serialization.Yaml.AssemblyInfo.cs
+E:\MPP_Lab1-dev\Tracer.Serialization\Tracer.Serialization.Yaml\obj\Debug\net6.0\Tracer.Serialization.Yaml.csproj.CoreCompileInputs.cache
+E:\MPP_Lab1-dev\Tracer.Serialization\Tracer.Serialization.Yaml\obj\Debug\net6.0\Tracer.Serialization.Yaml.csproj.CopyComplete
+E:\MPP_Lab1-dev\Tracer.Serialization\Tracer.Serialization.Yaml\obj\Debug\net6.0\Tracer.Serialization.Yaml.dll
+E:\MPP_Lab1-dev\Tracer.Serialization\Tracer.Serialization.Yaml\obj\Debug\net6.0\refint\Tracer.Serialization.Yaml.dll
+E:\MPP_Lab1-dev\Tracer.Serialization\Tracer.Serialization.Yaml\obj\Debug\net6.0\Tracer.Serialization.Yaml.pdb
+E:\MPP_Lab1-dev\Tracer.Serialization\Tracer.Serialization.Yaml\obj\Debug\net6.0\ref\Tracer.Serialization.Yaml.dll
